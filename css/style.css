@@ -40,5 +40,13 @@ img {
 }
 
 .content {
+    grid-area: content;
+}
+
+.anuncios {
     grid-area: anuncios;
+}
+
+.footer { 
+    grid-area: footer
 }
