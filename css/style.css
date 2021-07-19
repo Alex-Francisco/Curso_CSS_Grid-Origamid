@@ -77,7 +77,7 @@ img {
     padding: 30px;
 }
 
-.slidenav li a {
+.sidenav li a {
     display: block;
     min-width: 60px;
     max-width: 100px;
@@ -89,9 +89,8 @@ img {
     transition: .1s ease-out;
 }
 
-.slidenav li a:hover {
+.sidenav li a:hover {
     background: #b07dfb;
-
 }
 
 .content {
