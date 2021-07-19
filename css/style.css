@@ -35,6 +35,10 @@ img {
 }
 
 
+@media (max-width: 1200px) {
+
+}
+
 /* HEADER */
 .header { 
     grid-area: header;
