@@ -344,4 +344,5 @@ p {
 .footer p {
     color: white;
     text-align: center;
+    line-height: 100px;
 }
