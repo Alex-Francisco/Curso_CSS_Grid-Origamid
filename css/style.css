@@ -16,7 +16,6 @@ a {
 }
 
 img {
-    max-width: 100%;
     width: 100%;
     display: block;
     border-radius: 5px;
@@ -188,6 +187,12 @@ img {
 .content {
     grid-area: content;
     margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .content {
+        grid-template-columns: auto;
+    }
 }
 
 /* GRID DO CONTENT */
